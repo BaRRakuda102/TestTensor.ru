@@ -18,7 +18,5 @@ public class TensorTests  extends TestBase {
         steps.goLink2();
         steps.switchTo();
         steps.checkText2();
-
-
     }
 }
